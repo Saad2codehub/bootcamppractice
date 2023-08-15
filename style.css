@@ -4,6 +4,10 @@
     text-decoration: none;
     list-style-type: none;
 }
+body{
+
+    background-image: url(1.jpg);
+}
 a{
     color: white;
     font-size: 25px;
