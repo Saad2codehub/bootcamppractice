@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+a{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+span{
+    color: rgb(41, 179, 41);
+    font-size: 25px;
+    font-weight: bold;
+}
+header {
+    background-color: rgb(3, 56, 3);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 8%;
+}
+
+.navbar ul {
+    display: flex;
+}
+.navbar ul li a{
+
+    padding: 10px 20px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+    transition: .2s;
+}
+.navbar ul li a:hover{
+
+    color: rgb(41, 179, 41);
+
+    
+}
